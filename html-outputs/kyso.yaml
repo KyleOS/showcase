@@ -1,6 +1,13 @@
-organization: kyso-demo
-team: data-analyses
+type: other
 main: index.html
-title: "10xgenomics HTML Report: Chromium Nuclei Analysis"
-description: "Visualising nuclei isolated from adult mouse kidney using the Chromium Nuclei Isolation kit, plotting out K-means gene expressions."
-tags: ["10xgenomics", "k-means"]
+title: '10xgenomics HTML Report: Chromium Nuclei Analysis'
+description: >-
+  Visualising nuclei isolated from adult mouse kidney using the Chromium Nuclei
+  Isolation kit, plotting out K-means gene expressions.
+organization: kyso-demo
+channel: data-analyses
+tags:
+  - 10xgenomics
+  - k-means
+authors:
+  - kyle@kyso.io
