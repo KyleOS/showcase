@@ -1,0 +1,5 @@
+type: meta
+reports:
+  - html-outputs
+  - jupyter-notebooks
+  - pdf-reports
